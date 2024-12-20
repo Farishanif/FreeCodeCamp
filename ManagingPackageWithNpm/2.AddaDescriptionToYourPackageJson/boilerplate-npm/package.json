@@ -1,6 +1,6 @@
 {
 	"author": "Muhammad Farishanif Widyono",
-	"description": "A complete project for completing Managing package with NPM courses",
+	"description": "A project for completing Managing package with NPM courses",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
